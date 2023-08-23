@@ -2,8 +2,7 @@
 let dizi = [1,2,3,4]
 let enBuyuk = dizi[0]
 
-  for(let i=0;i < dizi.length
-;i++){
+  for(let i=0;i < dizi.length; i++){
     if(dizi[i] > enBuyuk){
       enBuyuk = dizi[i]
     }
