@@ -1,3 +1,4 @@
+//Problem: Kullanıcıdan aldığınız bir sayının basamaklarının toplamını hesaplayan bir kod parçacığı yazar mısın?
 function digitsTotal() {
     let number = parseInt(prompt("Bir sayı giriniz: "));
     let num = 0; 
